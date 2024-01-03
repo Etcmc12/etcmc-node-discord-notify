@@ -72,7 +72,7 @@ You will be prompted when you first run the script to enter these values, or you
 
 ## Support 🍵
 - If this helped you, tips are always appreciated & optional (ETC):  **0xb67F3eE7D6A3cA70EdcF9D6d2a16da5F24fD359e**
-_.                                                           (ETC classic):  **0xb67F3eE7D6A3cA70EdcF9D6d2a16da5F24fD359e**
+-(ETC classic):  **0xb67F3eE7D6A3cA70EdcF9D6d2a16da5F24fD359e**
 
 ## References:
 - Get discord webhook: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
