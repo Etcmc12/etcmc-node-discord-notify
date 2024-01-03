@@ -1,0 +1,1 @@
+# etcmc-node-discord-notify
